@@ -1,0 +1,34 @@
+[2026-11-10 16:40:28] Dobavleno izdanie: B1 «Chistyj kod»
+[2026-11-10 16:40:28] Dobavleno izdanie: B2 «Effektivnaya Java»
+[2026-11-10 16:40:28] Dobavleno izdanie: B3 «Priemy OOP proektirovaniya»
+[2026-11-10 16:40:28] Dobavleno izdanie: B4 «Iskusstvo programmirovaniya»
+[2026-11-10 16:40:28] Dobavleno izdanie: B5 «Refaktoring koda»
+[2026-11-10 16:40:28] Dobavleno izdanie: B6 «Grokam algoritmy»
+[2026-11-10 16:40:28] Dobavleno izdanie: M1 «Nauka i zhizn'»
+[2026-11-10 16:40:28] Dobavleno izdanie: M2 «Kvantik»
+[2026-11-10 16:40:28] Dobavleno izdanie: M3 «Mir PK»
+[2026-11-10 16:40:28] Dobavleno izdanie: D1 «Metody verifikacii PO»
+[2026-11-10 16:40:28] Dobavleno izdanie: D2 «Raspredelennye SUBD»
+[2026-11-10 16:40:28] Dobavleno izdanie: D3 «Neirosetevye kompilyatory»
+[2026-11-10 16:40:28] Zaregistrirovan chitatel': R1 (Ivanov Sergej Petrovich)
+[2026-11-10 16:40:28] Zaregistrirovan chitatel': R2 (Lazareva Anna Dmitrievna)
+[2026-11-10 16:40:28] Zaregistrirovan chitatel': R3 (Mel'nikov Pavel Olegovich)
+[2026-11-10 16:40:28] Zaregistrirovan chitatel': R4 (Romanova Kseniya Andreevna)
+[2026-11-10 16:40:28] Zaregistrirovan chitatel': R5 (Tarasov Viktor Igorevich)
+[2026-11-10 16:40:28] Vydano izdanie B1 chitatelyu R1 do 2026-10-24
+[2026-11-10 16:40:28] Vydano izdanie M1 chitatelyu R2 do 2026-10-27
+[2026-11-10 16:40:28] Vydano izdanie B2 chitatelyu R3 do 2026-11-19
+[2026-11-10 16:40:28] Prodlena vydacha LN-103 na 7 dn. (novyj srok: 2026-11-26)
+[2026-11-10 16:40:28] Vydano izdanie B6 chitatelyu R1 do 2026-11-22
+[2026-11-10 16:40:28] Chitatel' R4 dobavlen v ochered' rezerva na izdanie B1
+[2026-11-10 16:42:50] Zaregistrirovan chitatel': R1 (Ivanov Sergej Petrovich)
+[2026-11-10 16:42:50] Zaregistrirovan chitatel': R2 (Lazareva Anna Dmitrievna)
+[2026-11-10 16:42:50] Zaregistrirovan chitatel': R3 (Mel'nikov Pavel Olegovich)
+[2026-11-10 16:42:50] Zaregistrirovan chitatel': R4 (Romanova Kseniya Andreevna)
+[2026-11-10 16:42:50] Zaregistrirovan chitatel': R5 (Tarasov Viktor Igorevich)
+[2026-11-10 16:42:50] Vydano izdanie B1 chitatelyu R1 do 2026-10-24
+[2026-11-10 16:42:50] Vydano izdanie M1 chitatelyu R2 do 2026-10-27
+[2026-11-10 16:42:50] Vydano izdanie B2 chitatelyu R3 do 2026-11-19
+[2026-11-10 16:42:50] Prodlena vydacha LN-103 na 7 dn. (novyj srok: 2026-11-26)
+[2026-11-10 16:42:50] Vydano izdanie B6 chitatelyu R1 do 2026-11-22
+[2026-11-10 16:42:50] Chitatel' R4 dobavlen v ochered' rezerva na izdanie B1

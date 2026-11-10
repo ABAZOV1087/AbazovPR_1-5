@@ -1,0 +1,12 @@
+BOOK;B1;Chistyj kod;Martin R.;2019;true;0;978-5-4461-0960-9;464
+BOOK;B2;Effektivnaya Java;Bloh Dzh.;2020;true;0;978-5-907144-01-9;460
+BOOK;B3;Priemy OOP proektirovaniya;Gamma E.;2018;true;0;978-5-459-01720-5;368
+BOOK;B4;Iskusstvo programmirovaniya;Knut D.;2015;true;0;978-5-8459-0080-7;720
+BOOK;B5;Refaktoring koda;Fauler M.;2021;true;0;978-5-907144-55-2;448
+BOOK;B6;Grokam algoritmy;Bhargava A.;2022;true;0;978-5-4461-0923-4;288
+MAGAZINE;M1;Nauka i zhizn';Redakciya NiZh;2026;true;0;9;Sentyabr'
+MAGAZINE;M2;Kvantik;MCNMO;2026;true;0;10;Oktyabr'
+MAGAZINE;M3;Mir PK;Otkrytye sistemy;2025;true;0;12;Dekabr'
+DISSERTATION;D1;Metody verifikacii PO;Sokolov I.V.;2023;true;0;05.13.11 Matematicheskoe i PO EVM;Kandidatskaya
+DISSERTATION;D2;Raspredelennye SUBD;Belova E.A.;2021;true;0;05.13.15 Vychislitel'nye mashiny;Doktorskaya
+DISSERTATION;D3;Neirosetevye kompilyatory;Gromov A.N.;2024;true;0;05.13.18 Matematicheskoe modelirovanie;Kandidatskaya
